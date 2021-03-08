@@ -1,0 +1,16 @@
+#list-container {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    font-family: sans-serif;
+    
+}
+#page {
+    background-color: beige;
+
+}
+
+#list {
+    margin-top: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
