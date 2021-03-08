@@ -1,4 +1,4 @@
-Hello! Welcome to my simple Todo List app made with React.
+**Hello! Welcome to my simple Todo List app made with React.**
 
 In the project directory, you can run:
 
